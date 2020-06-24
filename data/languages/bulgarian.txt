@@ -1,0 +1,1195 @@
+##### authors #####
+#originally created by:
+#	Hip-Hop_Blond
+#modified by:
+#	Hip-Hop_Blond		2011-07-15 01:19:13
+##### /authors #####
+
+##### translated strings #####
+
+%ds left
+== остават %d сек.
+
+%i minute left
+== %i минута остава
+
+%i minutes left
+== %i минути остават
+
+%i second left
+== %i секунда остава
+
+%i seconds left
+== %i секунди остават
+
+%s wins!
+== %s печели!
+
+-Page %d-
+== -Страница %d-
+
+Abort
+== Прекрати
+
+Add
+== Добави
+
+Add Friend
+== Добави Приятел
+
+Address
+== Адрес
+
+All
+== Всички
+
+Are you sure that you want to delete the demo?
+== Сигуен ли си че искаш да изтриеш това демо?
+
+Are you sure that you want to quit?
+== Сигурен ли си че искаш да напуснеш?
+
+Are you sure that you want to remove the player from your friends list?
+== Сигурен ли си че искаш да премахнеш този играч от листа с приятели?
+
+Automatically record demos
+== Записвай демота автоматично
+
+Automatically take game over screenshot
+== Автоматична снимка в края на играта
+
+Blue team
+== Отбор Сини
+
+Blue team wins!
+== Отбор Сини печели!
+
+Body
+== Тяло
+
+Call vote
+== Гласувай
+
+Change settings
+== Промени настройките
+
+Chat
+== Чат
+
+Clan
+== Клан
+
+Client
+== Клиент
+
+Close
+== Затвори
+
+Compatible version
+== Съвместима версия
+
+Connect
+== Впиши
+
+Connecting to
+== Свързвам се с
+
+Connection Problems...
+== Проблеми с Връзката...
+
+Console
+== Конзола
+
+Controls
+== Контроли
+
+Count players only
+== Брой на играчите
+
+Country
+== Държава
+
+Current
+== Текущ
+
+Custom colors
+== Произволни цветове
+
+Delete
+== Изтрий
+
+Delete demo
+== Изтрий демото
+
+Demo details
+== Детайли за демото
+
+Demofile: %s
+== Демофайл: %s
+
+Demos
+== Демота
+
+Disconnect
+== Отпиши
+
+Disconnected
+== Отписан
+
+Downloading map
+== Свалям карта
+
+Draw!
+== Равни!
+
+Dynamic Camera
+== Динамична Камера
+
+Emoticon
+== Емотикони
+
+Enter
+== Влез
+
+Error
+== Грешка
+
+Error loading demo
+== Грешка при зареждане на демо файл
+
+Favorite
+== Любим
+
+Favorites
+== Любими
+
+Feet
+== Крака
+
+Filter
+== Филтър
+
+Fire
+== Стрелба
+
+Folder
+== Папка
+
+Force vote
+== Форсирай вот
+
+Free-View
+== Свободен Изглед
+
+Friends
+== Приятели
+
+Fullscreen
+== Цял Екран
+
+Game
+== Игра
+
+Game info
+== Игра
+
+Game over
+== Играта свърши
+
+Game type
+== Тип игра
+
+Game types:
+== Тип иги:
+
+General
+== Основни
+
+Graphics
+== Графика
+
+Grenade
+== Граната
+
+Hammer
+== Чук
+
+Has people playing
+== Не показвай празни
+
+High Detail
+== Висока Детайлност
+
+Hook
+== Верига
+
+Invalid Demo
+== Невалидно Демо
+
+Join blue
+== Влез син
+
+Join red
+== Влез червен
+
+Jump
+== Скок
+
+Kick player
+== Кикни играч
+
+Language
+== Език
+
+MOTD
+== MOTD
+
+Map
+== Карта
+
+Maximum ping:
+== Макс. пинг:
+
+Mouse sens.
+== Мишка
+
+Move left
+== На ляво
+
+Move player to spectators
+== Премести играча в наблюдатели
+
+Move right
+== На дясно
+
+Movement
+== Движение
+
+Mute when not active
+== Изключвай звука когато играта е неактивна
+
+Name
+== Име
+
+Next weapon
+== След. оръжие
+
+Nickname
+== Ник
+
+No
+== Не
+
+No password
+== Без парола
+
+No servers found
+== Няма намерени сървъри
+
+No servers match your filter criteria
+== Няма сървъри съответстващи твоите настройки
+
+Ok
+== Добре
+
+Open
+== Отвори
+
+Parent Folder
+== Предишна Папка
+
+Password
+== Парола
+
+Password incorrect
+== Грешна Парола
+
+Ping
+== Пинг
+
+Pistol
+== Пистолет
+
+Play
+== Възпроизведи
+
+Play background music
+== Пусни музика за фон
+
+Player
+== Играч
+
+Player country:
+== Страна на играча:
+
+Player options
+== Настройки на Играча
+
+Players
+== Играчи
+
+Please balance teams!
+== Моля уравновесете отборите!
+
+Prev. weapon
+== Пред. оръжие
+
+Quality Textures
+== Качествени Текстури
+
+Quit
+== Изход
+
+Reason:
+== Причина:
+
+Red team
+== Отбор Червени
+
+Red team wins!
+== Отбор Червени печели!
+
+Refresh
+== Обнови
+
+Refreshing master servers
+== Обновновявам мастър-сървърите
+
+Remote console
+== Сървър Конзола
+
+Remove
+== Премахни
+
+Remove friend
+== Премахни приятел
+
+Rename
+== Преименувай
+
+Rename demo
+== Преименувай демо
+
+Reset filter
+== Рестартирай филтрите
+
+Sample rate
+== Честота
+
+Score
+== Точки
+
+Score limit
+== Лимит на точките
+
+Scoreboard
+== Резултат
+
+Screenshot
+== Снимка
+
+Server address:
+== Адрес на сървъра:
+
+Server details
+== Детайли за Сървъра
+
+Server filter
+== Филтър на сървъра
+
+Server info
+== Инфо
+
+Server not full
+== Не показвай пълните
+
+Shotgun
+== Пушка
+
+Show chat
+== Показвай чата
+
+Show friends only
+== Покажи приятели
+
+Show ingame HUD
+== Показвай детайли в играта
+
+Show name plates
+== Показвай лентите с имената
+
+Show only supported
+== Показвай само съвместимите
+
+Skins
+== Модели
+
+Sound
+== Звук
+
+Sound error
+== Грешка в звука
+
+Spectate
+== Наблюдавай
+
+Spectate next
+== Наблюдавай след.
+
+Spectator mode
+== Наблюдател
+
+Spectators
+== Наблюдатели
+
+Standard gametype
+== Стандартен тип игри
+
+Standard map
+== Стандартна карта
+
+Stop record
+== Спри записа
+
+Strict gametype filter
+== Стриктен геймтайп филтър
+
+Sudden Death
+== Внезапна Смърт
+
+Switch weapon on pickup
+== Сменяй оръжието при взимане
+
+Team
+== Отбор
+
+Team chat
+== Отборен чат
+
+Texture Compression
+== Компресиране на Текстурите
+
+The audio device couldn't be initialised.
+== Аудио устройството не може да бъде стартирано.
+
+The server is running a non-standard tuning on a pure game type.
+== Този сървър използва нестандартен тунинг на стандартен тип ига.
+
+There's an unsaved map in the editor, you might want to save it before you quit the game.
+== Има незапазена карта в редактора, ако напуснете картата няма да бъде запазена.
+
+Time limit
+== Лимит на Времето
+
+Time limit: %d min
+== Лимит на Времето: %d мин
+
+Try again
+== Опитай пак
+
+Type
+== Тип
+
+Unable to delete the demo
+== Изтриването неуспешно
+
+Unable to rename the demo
+== Преименуването неуспешно
+
+Use sounds
+== Използвай Звук
+
+Use team colors for name plates
+== Използвай  цветове в лентите
+
+V-Sync
+== Вертикална Синхронизация
+
+Version
+== Версия
+
+Vote command:
+== Вот команда:
+
+Vote description:
+== Вот дефиниция:
+
+Vote no
+== Против
+
+Vote yes
+== За
+
+Voting
+== Гласуване
+
+Warmup
+== Разгрявка
+
+Weapon
+== Оръжия
+
+Yes
+== Да
+
+You must restart the game for all settings to take effect.
+== Трябва да рестартираш играта за да поемат ефект новите настройки.
+
+##### needs translation #####
+
+New name:
+== Ново име:
+
+Sat.
+== Контраст
+
+Miscellaneous
+== Допълнителни
+
+Internet
+== Интернет
+
+Max demos
+== Максимум Демота
+
+News
+== Новини
+
+Join game
+== Влез
+
+FSAA samples
+== FSAA семпли
+
+%d of %d servers, %d players
+== %d/%d сървъри, %d играчи
+
+Sound volume
+== Сила на звука
+
+Created:
+== Създаден:
+
+Max Screenshots
+== Максимум Снимки
+
+Length:
+== Дължина:
+
+Laser
+== Лазер
+
+Netversion:
+== Версия:
+
+Map:
+== Карта:
+
+Info
+== Инфо
+
+Hue
+== Оттенък
+
+Record demo
+== Запиши демо
+
+Your skin
+== Твоят модел
+
+Size:
+== Размер
+
+Reset to defaults
+== Рестартирай настройките
+
+Quit anyway?
+== Излезни все пак?
+
+Display Modes
+== Режими на Показване
+
+Version:
+== Версия:
+
+Round
+== Рунд
+
+Lht.
+== Яркост
+
+UI Color
+== Цвят на Интерфейса
+
+Host address
+== Адрес на сървъра
+
+Crc:
+== Crc:
+
+Alpha
+== Прозрачност
+
+Current version: %s
+== Текуща версия: %s
+
+LAN
+== ЛАН
+
+Name plates size
+== Размер на лентата с имената
+
+Type:
+== Тип:
+
+
+##### generated by copy_fix.py, please translate this #####
+
+
+##### generated by copy_fix.py, please translate this #####
+
+
+##### generated by copy_fix.py, please translate this #####
+
+
+##### generated by copy_fix.py, please translate this #####
+
+Vanilla skins only
+== 
+
+Enable game sounds
+== 
+
+Highlighted message
+== 
+
+Search
+== 
+
+second
+== 
+
+Updating...
+== 
+
+Update now
+== 
+
+%d new mentions
+== 
+
+Please use a different name
+== 
+
+DDNet %s is out! Download it at DDNet.tw!
+== 
+
+Show entities
+== 
+
+Show quads
+== 
+
+Show only chat messages from friends
+== 
+
+Team message
+== 
+
+Show clan above name plates
+== 
+
+Show ghost
+== 
+
+Markers:
+== 
+
+Show client IDs in Scoreboard
+== 
+
+Reset wanted weapon on death
+== 
+
+Video name:
+== 
+
+Net
+== 
+
+Enable highlighted chat sound
+== 
+
+Show console window
+== 
+
+Dummy copy
+== 
+
+Replay %3d:%02d  
+== 
+
+Background (regular)
+== 
+
+New random timeout code
+== 
+
+Gameplay
+== 
+
+Save
+== 
+
+DDNet Client needs to be restarted to complete update!
+== 
+
+Look out!
+== 
+
+Pause
+== 
+
+Ratio
+== 
+
+Show tiles layers from BG map
+== 
+
+Friend
+== 
+
+Select a name
+== 
+
+System message
+== 
+
+Borderless window
+== 
+
+Reset
+== 
+
+1 new mention
+== 
+
+Converse
+== 
+
+We will win
+== 
+
+Toggle dyncam
+== 
+
+Show DDNet map finishes in server browser\n(transmits your player name to info.ddnet.tw)
+== 
+
+Automatically create statboard csv
+== 
+
+Demo
+== 
+
+AntiPing limit
+== 
+
+Background (entities)
+== 
+
+Remove chat
+== 
+
+Best
+== 
+
+Overlay entities
+== 
+
+Use OpenGL 3.3 (experimental)
+== 
+
+Friend message
+== 
+
+Show HUD
+== 
+
+Hook collisions
+== 
+
+Render
+== 
+
+Show names in chat in team colors
+== 
+
+Screen
+== 
+
+Save the best demo of each race
+== 
+
+DDNet
+== 
+
+Are you sure that you want to disconnect?
+== 
+
+Enable replays
+== 
+
+Manual %3d:%02d  
+== 
+
+Enable gun sound
+== 
+
+File already exists, do you want to overwrite it?
+== 
+
+Frags
+== 
+
+Show other players' hook collision lines
+== 
+
+HUD
+== 
+
+Auto %3d:%02d  
+== 
+
+Threaded sound loading
+== 
+
+Exclude
+== 
+
+Restart
+== 
+
+Toggle dummy
+== 
+
+Enable long pain sound (used when shooting in freeze)
+== 
+
+Switch weapon when out of ammo
+== 
+
+SHA256:
+== 
+
+Update failed! Check log...
+== 
+
+Disconnect Dummy
+== 
+
+Show others
+== 
+
+Enable team chat sound
+== 
+
+Countries
+== 
+
+DDNet Client updated!
+== 
+
+Replay feature is disabled!
+== 
+
+Automatically take statboard screenshot
+== 
+
+Multiple texture units (disable for MacOS)
+== 
+
+Show health + ammo
+== 
+
+Old mouse mode
+== 
+
+Refresh Rate
+== 
+
+9+ new mentions
+== 
+
+Kill
+== 
+
+Unfinished map
+== 
+
+FPM
+== 
+
+Hammerfly dummy
+== 
+
+Learn
+== 
+
+Default length: %d
+== 
+
+Browser
+== 
+
+No updates available
+== 
+
+Wait before try for
+== 
+
+Spree
+== 
+
+Zoom in
+== 
+
+Server best:
+== 
+
+Spectator
+== 
+
+Grabs
+== 
+
+Activate
+== 
+
+Deaths
+== 
+
+Personal best:
+== 
+
+Messages
+== 
+
+DDNet %s is out!
+== 
+
+Hi o/
+== 
+
+Connecting dummy
+== 
+
+Enable server message sound
+== 
+
+Date
+== 
+
+Hello and welcome
+== 
+
+Try fast HTTP map download first
+== 
+
+AntiPing: predict other players
+== 
+
+Max CSVs
+== 
+
+Show all
+== 
+
+Size
+== 
+
+Fat skins (DDFat)
+== 
+
+Indicate map finish
+== 
+
+Preinit VBO (iGPUs only)
+== 
+
+Successfully saved the replay!
+== 
+
+may cause delay
+== 
+
+AntiPing
+== 
+
+Show text entities
+== 
+
+Toggle ghost
+== 
+
+Welcome to DDNet
+== 
+
+\n\nReconnect in %d sec
+== 
+
+DDNet %s is available:
+== 
+
+Spectate previous
+== 
+
+Loading DDNet Client
+== 
+
+Render demo
+== 
+
+Normal message
+== 
+
+Deactivate
+== 
+
+Destination file already exist
+== 
+
+Save ghost
+== 
+
+Show votes window after voting
+== 
+
+Lock team
+== 
+
+AntiPing: predict weapons
+== 
+
+Replace video
+== 
+
+Video speed:
+== 
+
+Map sound volume
+== 
+
+Show other players' key presses
+== 
+
+Show kill messages
+== 
+
+Clan plates size
+== 
+
+Statboard
+== 
+
+Use high DPI
+== 
+
+Downloading %s:
+== 
+
+Enable regular chat sound
+== 
+
+Default zoom
+== 
+
+Types
+== 
+
+Dummy settings
+== 
+
+Zoom out
+== 
+
+Skin prefix
+== 
+
+Ghost
+== 
+
+Outline color
+== 
+
+seconds
+== 
+
+Use DDRace Scoreboard
+== 
+
+Follow
+== 
+
+Length
+== 
+
+\xEE\x85\x8B
+== 
+
+%.2f KiB
+== 
+
+Game paused
+== 
+
+Are you sure that you want to disconnect your dummy?
+== 
+
+DDraceNetwork is a cooperative online game where the goal is for you and your group of tees to reach the finish line of the map. As a newcomer you should start on Novice servers, which host the easiest maps. Consider the ping to choose a server close to you.\n\nThe maps contain freeze, which temporarily make a tee unable to move. You have to work together to get through these parts.\n\nThe mouse wheel changes weapons. Hammer (left mouse) can be used to hit other tees and wake them up from being frozen.\n\nHook (right mouse) can be used to swing through the map and to hook other tees to you.\n\nMost importantly communication is key: There is no tutorial so you'll have to chat (t key) with other players to learn the basics and tricks of the game.\n\nIt's recommended that you check the settings to adjust them to your liking before joining a server.\n\nPlease enter your nick name below.
+== 
+
+Filter connecting players
+== 
+
+Race %3d:%02d  
+== 
+
+DecSpeed
+== 
+
+Inner color
+== 
+
+Suicides
+== 
+
+Reload
+== 
+
+IncSpeed
+== 
+
+Show score
+== 
+
+Fetch Info
+== 
+
+UI mouse s.
+== 
+
+%.2f MiB
+== 
+
+Check now
+== 
+
+Time
+== 
+
+AntiPing: predict grenade paths
+== 
+
+Markers
+== 

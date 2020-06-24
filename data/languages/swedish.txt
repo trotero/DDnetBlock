@@ -1,0 +1,1199 @@
+##### authors #####
+#originally created by:
+#	matricks
+#modified by:
+#	Martin Pola		2011-04-02 11:17:09
+#	Kottizen		2011-07-02 00:34:54
+##### /authors #####
+
+##### translated strings #####
+
+%ds left
+== %d sekunder kvar
+
+%i minute left
+== %i minut kvar
+
+%i minutes left
+== %i minuter kvar
+
+%i second left
+== %i sekund kvar
+
+%i seconds left
+== %i sekunder kvar
+
+%s wins!
+== %s vinner!
+
+-Page %d-
+== -Sida %d-
+
+Abort
+== Avbryt
+
+Add
+== Lägg till
+
+Add Friend
+== Lägg till kompis
+
+Address
+== Adress
+
+All
+== Alla
+
+Are you sure that you want to delete the demo?
+== Är du säker på att du vill ta bort detta demo?
+
+Are you sure that you want to quit?
+== Är du säker på att du vill avsluta?
+
+Are you sure that you want to remove the player from your friends list?
+== Är du säker på att du vill ta bort denna spelaren från din kompislista?
+
+Automatically record demos
+== Spela in demon automatiskt
+
+Automatically take game over screenshot
+== Ta skärmdumpar vid matchslut
+
+Blue team
+== Blå laget
+
+Blue team wins!
+== Blå laget vann!
+
+Body
+== Kropp
+
+Call vote
+== Röstning
+
+Change settings
+== Ändra inställningar
+
+Chat
+== Chatt
+
+Clan
+== Klan
+
+Client
+== Klient
+
+Close
+== Stäng
+
+Compatible version
+== Kompatibel version
+
+Connect
+== Anslut
+
+Connecting to
+== Ansluter till
+
+Connection Problems...
+== Anslutningsproblem...
+
+Console
+== Konsol
+
+Controls
+== Kontroller
+
+Count players only
+== Räkna endast spelare
+
+Country
+== Land
+
+Current
+== Nuvarande
+
+Custom colors
+== Egna färger
+
+Delete
+== Ta bort
+
+Delete demo
+== Ta bort demo
+
+Demo details
+== Demoinformation
+
+Demofile: %s
+== Demofil: %s
+
+Demos
+== Demon
+
+Disconnect
+== Avsluta
+
+Disconnected
+== Frånkopplad
+
+Downloading map
+== Laddar ner karta
+
+Draw!
+== Oavgjort!
+
+Dynamic Camera
+== Dynamisk kamera
+
+Emoticon
+== Känsloikon
+
+Enter
+== Fortsätt
+
+Error
+== Fel
+
+Error loading demo
+== Kunde inte ladda demot
+
+Favorite
+== Favorit
+
+Favorites
+== Favoriter
+
+Feet
+== Fötter
+
+Filter
+== Filter
+
+Fire
+== Skjuta
+
+Folder
+== Mapp
+
+Force vote
+== Tvinga omröstning
+
+Free-View
+== Friläge
+
+Friends
+== Kompisar
+
+Fullscreen
+== Fullskärm
+
+Game
+== Spel
+
+Game info
+== Spelinfo
+
+Game over
+== Slutspelat
+
+Game type
+== Speltyp
+
+Game types:
+== Speltyper:
+
+General
+== Generellt
+
+Graphics
+== Grafik
+
+Grenade
+== Granater
+
+Hammer
+== Hammare
+
+Has people playing
+== Inte tom
+
+High Detail
+== Extra detaljer
+
+Hook
+== Haken
+
+Invalid Demo
+== Ogiltigt deo
+
+Join blue
+== Spela i blått
+
+Join red
+== Spela i rött
+
+Jump
+== Hoppa
+
+Kick player
+== Kicka spelare
+
+Language
+== Språk
+
+MOTD
+== Meddelande
+
+Map
+== Bana
+
+Maximum ping:
+== Högsta ping:
+
+Mouse sens.
+== Muskänslighet
+
+Move left
+== Gå vänster
+
+Move player to spectators
+== Flytta till åskådarna
+
+Move right
+== Gå höger
+
+Movement
+== Förflyttning
+
+Mute when not active
+== Stäng av ljudet när spelet inte är aktivt
+
+Name
+== Namn
+
+Next weapon
+== Nästa vapen
+
+Nickname
+== Smeknamn
+
+No
+== Nej
+
+No password
+== Inget lösenord
+
+No servers found
+== Inga servrar hittade
+
+No servers match your filter criteria
+== Inga servrar matchar dina filterkriterer
+
+Ok
+== Ok
+
+Open
+== Öppna
+
+Parent Folder
+== Uppliggande mapp
+
+Password
+== Lösenord
+
+Password incorrect
+== Felaktigt lösenord
+
+Ping
+== Ping
+
+Pistol
+== Pistol
+
+Play
+== Spela
+
+Play background music
+== Aktivera bakgrundsmusik
+
+Player
+== Spelare
+
+Player country:
+== Land
+
+Player options
+== Spelaralternativ
+
+Players
+== Spelare
+
+Please balance teams!
+== Balansera lagen!
+
+Prev. weapon
+== Föregående vapen
+
+Quality Textures
+== Kvalitetstexturer
+
+Quit
+== Avsluta
+
+Reason:
+== Anledning:
+
+Red team
+== Röda laget
+
+Red team wins!
+== Röda laget vann!
+
+Refresh
+== Uppdatera
+
+Refreshing master servers
+== Uppdaterar huvudservrar
+
+Remote console
+== Serverkonsol
+
+Remove
+== Ta bort
+
+Remove friend
+== Ta bort kompis
+
+Rename
+== Byt namn
+
+Rename demo
+== Byt namn på demo
+
+Reset filter
+== Återställ filter
+
+Sample rate
+== Samplingsfrekvens
+
+Score
+== Poäng
+
+Score limit
+== Poängmål
+
+Scoreboard
+== Poänglista
+
+Screenshot
+== Skärmdump
+
+Server address:
+== Serveradress
+
+Server details
+== Serverdetaljer
+
+Server filter
+== Serverfilter
+
+Server info
+== Serverinfo
+
+Server not full
+== Lediga platser
+
+Shotgun
+== Hagelgevär
+
+Show chat
+== Visa chatten
+
+Show friends only
+== Visa kompisar
+
+Show ingame HUD
+== Visa HUD i spel
+
+Show name plates
+== Visa namnskyltar
+
+Show only supported
+== Visa endast upplösningar som stöds
+
+Skins
+== Utseende
+
+Sound
+== Ljud
+
+Sound error
+== Ljudfel
+
+Spectate
+== Åskåda
+
+Spectate next
+== Se på nästa
+
+Spectate previous
+== Se på föregående
+
+Spectator mode
+== Åskådarläge
+
+Spectators
+== Åskådare
+
+Standard gametype
+== Standard speltyp
+
+Standard map
+== Standardkarta
+
+Stop record
+== Sluta spela in
+
+Strict gametype filter
+== Strikt speltypsfilter
+
+Sudden Death
+== Plötslig död
+
+Switch weapon on pickup
+== Byt vapen vid anskaffning
+
+Team
+== Lag
+
+Team chat
+== Lagchatt
+
+Texture Compression
+== Texturkompression
+
+The audio device couldn't be initialised.
+== Ljudet kunde inte startas
+
+The server is running a non-standard tuning on a pure game type.
+== Denna server kör inte standardinställningar på en reserverad speltyp.
+
+There's an unsaved map in the editor, you might want to save it before you quit the game.
+== Det finns en osparad bana i redigeraden, du kanske vill spara den innan du avslutar.
+
+Time limit
+== Tidsbegränsning
+
+Time limit: %d min
+== Tidsgräns: %d min
+
+Try again
+== Försök igen
+
+Type
+== Typ
+
+Unable to delete the demo
+== Kunde inte ta bort demot
+
+Unable to rename the demo
+== Kunde inte byta namn på demot
+
+Use sounds
+== Aktivera ljudeffekter
+
+Use team colors for name plates
+== Använd lagfärger i namnskyltar
+
+V-Sync
+== V-Synk
+
+Version
+== Version
+
+Vote command:
+== Omröstningskommando:
+
+Vote description:
+== Beskrivning:
+
+Vote no
+== Rösta nej
+
+Vote yes
+== Rösta ja
+
+Voting
+== Röstning
+
+Warmup
+== Uppvärmning
+
+Weapon
+== Vapen
+
+Yes
+== Ja
+
+You must restart the game for all settings to take effect.
+== Du måste starta om spelet för att ändringarna skall verkställas.
+
+##### needs translation #####
+
+New name:
+== Nytt namn:
+
+Sat.
+== Mättnad
+
+Miscellaneous
+== Övrigt
+
+Internet
+== Internet
+
+Max demos
+== Max antal demon
+
+News
+== Nyheter
+
+Join game
+== Spela
+
+FSAA samples
+== FSAA-samplingar
+
+%d of %d servers, %d players
+== %d av %d servrar, %d spelare
+
+Sound volume
+== Volym
+
+Created:
+== Skapad:
+
+Max Screenshots
+== Max antal skärmdumpar
+
+Length:
+== Längd
+
+Laser
+== Gevär
+
+Netversion:
+== Nätversion:
+
+Map:
+== Bana
+
+Info
+== Info
+
+Hue
+== Nyans
+
+Record demo
+== Spela in demo
+
+Your skin
+== Ditt skin
+
+Size:
+== Storlek:
+
+Reset to defaults
+== Återställ till standard
+
+Quit anyway?
+== Avsluta i alla fall?
+
+Display Modes
+== Skärmlägen
+
+Version:
+== Version:
+
+Round
+== Runda
+
+Lht.
+== Ljusstyrka
+
+UI Color
+== Gränssnittfärg
+
+Host address
+== Serveraddress
+
+Crc:
+== Crc:
+
+Alpha
+== Alpha
+
+Current version: %s
+== Nuvarande version: %s
+
+LAN
+== LAN
+
+Name plates size
+== Storlek på namnskyltar
+
+Type:
+== Typ:
+
+
+##### generated by copy_fix.py, please translate this #####
+
+
+##### generated by copy_fix.py, please translate this #####
+
+
+##### generated by copy_fix.py, please translate this #####
+
+
+##### generated by copy_fix.py, please translate this #####
+
+
+##### generated by copy_fix.py, please translate this #####
+
+DDNet %s is out! Download it at DDNet.tw!
+== 
+
+Show console window
+== 
+
+Vanilla skins only
+== 
+
+AntiPing limit
+== 
+
+New random timeout code
+== 
+
+UI mouse s.
+== 
+
+Select a name
+== 
+
+\xEE\x85\x8B
+== 
+
+Enable long pain sound (used when shooting in freeze)
+== 
+
+We will win
+== 
+
+Default zoom
+== 
+
+Dummy copy
+== 
+
+Show tiles layers from BG map
+== 
+
+Statboard
+== 
+
+Show kill messages
+== 
+
+Reset
+== 
+
+DDNet
+== 
+
+Suicides
+== 
+
+Show entities
+== 
+
+Ratio
+== 
+
+Render demo
+== 
+
+Activate
+== 
+
+Deaths
+== 
+
+Show all
+== 
+
+Indicate map finish
+== 
+
+Map sound volume
+== 
+
+\n\nReconnect in %d sec
+== 
+
+Successfully saved the replay!
+== 
+
+Save ghost
+== 
+
+Browser
+== 
+
+Default length: %d
+== 
+
+Hello and welcome
+== 
+
+Switch weapon when out of ammo
+== 
+
+Show clan above name plates
+== 
+
+HUD
+== 
+
+Replay feature is disabled!
+== 
+
+Types
+== 
+
+Enable server message sound
+== 
+
+Show votes window after voting
+== 
+
+DDNet Client needs to be restarted to complete update!
+== 
+
+Kill
+== 
+
+Personal best:
+== 
+
+Show DDNet map finishes in server browser\n(transmits your player name to info.ddnet.tw)
+== 
+
+9+ new mentions
+== 
+
+DDraceNetwork is a cooperative online game where the goal is for you and your group of tees to reach the finish line of the map. As a newcomer you should start on Novice servers, which host the easiest maps. Consider the ping to choose a server close to you.\n\nThe maps contain freeze, which temporarily make a tee unable to move. You have to work together to get through these parts.\n\nThe mouse wheel changes weapons. Hammer (left mouse) can be used to hit other tees and wake them up from being frozen.\n\nHook (right mouse) can be used to swing through the map and to hook other tees to you.\n\nMost importantly communication is key: There is no tutorial so you'll have to chat (t key) with other players to learn the basics and tricks of the game.\n\nIt's recommended that you check the settings to adjust them to your liking before joining a server.\n\nPlease enter your nick name below.
+== 
+
+Render
+== 
+
+Are you sure that you want to disconnect?
+== 
+
+Grabs
+== 
+
+Ghost
+== 
+
+Zoom out
+== 
+
+Enable highlighted chat sound
+== 
+
+Deactivate
+== 
+
+Welcome to DDNet
+== 
+
+Use high DPI
+== 
+
+may cause delay
+== 
+
+Threaded sound loading
+== 
+
+AntiPing
+== 
+
+Messages
+== 
+
+Markers:
+== 
+
+Time
+== 
+
+Filter connecting players
+== 
+
+Friend
+== 
+
+Enable game sounds
+== 
+
+Max CSVs
+== 
+
+Zoom in
+== 
+
+Hi o/
+== 
+
+Update failed! Check log...
+== 
+
+%d new mentions
+== 
+
+Check now
+== 
+
+DecSpeed
+== 
+
+second
+== 
+
+Reset wanted weapon on death
+== 
+
+SHA256:
+== 
+
+Search
+== 
+
+Borderless window
+== 
+
+FPM
+== 
+
+System message
+== 
+
+DDNet %s is available:
+== 
+
+Markers
+== 
+
+Connecting dummy
+== 
+
+Exclude
+== 
+
+AntiPing: predict other players
+== 
+
+Show text entities
+== 
+
+Show ghost
+== 
+
+Replay %3d:%02d  
+== 
+
+1 new mention
+== 
+
+Wait before try for
+== 
+
+Are you sure that you want to disconnect your dummy?
+== 
+
+Overlay entities
+== 
+
+Try fast HTTP map download first
+== 
+
+Date
+== 
+
+Show other players' hook collision lines
+== 
+
+Fetch Info
+== 
+
+Normal message
+== 
+
+Show score
+== 
+
+Multiple texture units (disable for MacOS)
+== 
+
+Refresh Rate
+== 
+
+Learn
+== 
+
+No updates available
+== 
+
+%.2f MiB
+== 
+
+Follow
+== 
+
+Restart
+== 
+
+Manual %3d:%02d  
+== 
+
+Background (regular)
+== 
+
+Hammerfly dummy
+== 
+
+Remove chat
+== 
+
+Enable team chat sound
+== 
+
+Disconnect Dummy
+== 
+
+Background (entities)
+== 
+
+Replace video
+== 
+
+Look out!
+== 
+
+Server best:
+== 
+
+Friend message
+== 
+
+Toggle dummy
+== 
+
+Fat skins (DDFat)
+== 
+
+Net
+== 
+
+seconds
+== 
+
+IncSpeed
+== 
+
+Spectator
+== 
+
+Demo
+== 
+
+Show only chat messages from friends
+== 
+
+DDNet Client updated!
+== 
+
+Converse
+== 
+
+Enable replays
+== 
+
+Countries
+== 
+
+Video name:
+== 
+
+Enable gun sound
+== 
+
+Downloading %s:
+== 
+
+Lock team
+== 
+
+%.2f KiB
+== 
+
+Screen
+== 
+
+Toggle dyncam
+== 
+
+Save
+== 
+
+AntiPing: predict grenade paths
+== 
+
+Best
+== 
+
+Updating...
+== 
+
+Preinit VBO (iGPUs only)
+== 
+
+Clan plates size
+== 
+
+Outline color
+== 
+
+Size
+== 
+
+Save the best demo of each race
+== 
+
+Frags
+== 
+
+DDNet %s is out!
+== 
+
+Highlighted message
+== 
+
+Use DDRace Scoreboard
+== 
+
+AntiPing: predict weapons
+== 
+
+Length
+== 
+
+Skin prefix
+== 
+
+Please use a different name
+== 
+
+Destination file already exist
+== 
+
+Show client IDs in Scoreboard
+== 
+
+Game paused
+== 
+
+Video speed:
+== 
+
+Automatically take statboard screenshot
+== 
+
+Automatically create statboard csv
+== 
+
+Old mouse mode
+== 
+
+Inner color
+== 
+
+Enable regular chat sound
+== 
+
+Show other players' key presses
+== 
+
+Gameplay
+== 
+
+Loading DDNet Client
+== 
+
+Auto %3d:%02d  
+== 
+
+Show HUD
+== 
+
+Pause
+== 
+
+Reload
+== 
+
+Spree
+== 
+
+Show others
+== 
+
+Race %3d:%02d  
+== 
+
+Unfinished map
+== 
+
+Show health + ammo
+== 
+
+Show quads
+== 
+
+Show names in chat in team colors
+== 
+
+Use OpenGL 3.3 (experimental)
+== 
+
+Update now
+== 
+
+Toggle ghost
+== 
+
+Dummy settings
+== 
+
+Team message
+== 
+
+File already exists, do you want to overwrite it?
+== 
+
+Hook collisions
+== 

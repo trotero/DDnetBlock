@@ -1,0 +1,1199 @@
+##### authors #####
+#originally created by:
+#	ziltoide
+#modified by:
+#	ziltoide		2011-04-06 23:56:54
+#	ziltoide		2011-07-05 18:31:04
+##### /authors #####
+
+##### translated strings #####
+
+%ds left
+== %ds jäljellä
+
+%i minute left
+== %i minuutti jäljellä
+
+%i minutes left
+== %i minuuttia jäljellä
+
+%i second left
+== %i sekunti jäljellä
+
+%i seconds left
+== %i sekuntia jäljellä
+
+%s wins!
+== %s voitti!
+
+-Page %d-
+== -Sivu %d-
+
+Abort
+== Keskeytä
+
+Add
+== Lisää
+
+Add Friend
+== Lisää ystävä
+
+Address
+== Osoite
+
+All
+== Kaikki
+
+Are you sure that you want to delete the demo?
+== Oletko varma, että haluat poistaa demon?
+
+Are you sure that you want to quit?
+== Oletko varma, että haluat lopettaa?
+
+Are you sure that you want to remove the player from your friends list?
+== Oletko varma, että haluat poistaa pelaajan ystävälistaltasi?
+
+Automatically record demos
+== Nauhoita demot automaattisesti
+
+Automatically take game over screenshot
+== Ota pelin jälkeinen kuvankaappaus autom.
+
+Blue team
+== Sininen joukkue
+
+Blue team wins!
+== Sininen joukkue voitti!
+
+Body
+== Vartalo
+
+Call vote
+== Aloita äänestys
+
+Change settings
+== Muuta asetuksia
+
+Chat
+== Chatti
+
+Clan
+== Klaani
+
+Client
+== Asiakasohjelma
+
+Close
+== Sulje
+
+Compatible version
+== Yhteensopiva versio
+
+Connect
+== Yhdistä
+
+Connecting to
+== Yhdistetään
+
+Connection Problems...
+== Yhteysongelmia...
+
+Console
+== Konsoli
+
+Controls
+== Kontrollit
+
+Count players only
+== Laske vain pelaajat
+
+Country
+== Maa
+
+Current
+== Nykyinen
+
+Custom colors
+== Omat värit
+
+Delete
+== Poista
+
+Delete demo
+== Poista demo
+
+Demo details
+== Demon tiedot
+
+Demofile: %s
+== Demotiedosto: %s
+
+Demos
+== Demot
+
+Disconnect
+== Katk. yhteys
+
+Disconnected
+== Yhteys katkaistu
+
+Downloading map
+== Ladataan kenttää
+
+Draw!
+== Tasapeli!
+
+Dynamic Camera
+== Dynaaminen kamera
+
+Emoticon
+== Hymiö
+
+Enter
+== Jatka
+
+Error
+== Virhe
+
+Error loading demo
+== Virhe ladattaessa demoa
+
+Favorite
+== Suosikki
+
+Favorites
+== Suosikit
+
+Feet
+== Jalat
+
+Filter
+== Suotimet
+
+Fire
+== Ammu
+
+Folder
+== Kansio
+
+Force vote
+== Päätä äänestys
+
+Free-View
+== Vapaa näkymä
+
+Friends
+== Ystävät
+
+Fullscreen
+== Koko näyttö
+
+Game
+== Peli
+
+Game info
+== Pelin tiedot
+
+Game over
+== Peli loppui
+
+Game type
+== Pelityyppi
+
+Game types:
+== Pelityypit:
+
+General
+== Yleinen
+
+Graphics
+== Grafiikat
+
+Grenade
+== Kranaatti
+
+Hammer
+== Nuija
+
+Has people playing
+== Ihmisiä pelaamassa
+
+High Detail
+== Korkea yksityiskohtataso
+
+Hook
+== Koukku
+
+Invalid Demo
+== Epäkelpo demo
+
+Join blue
+== Liity sinisiin
+
+Join red
+== Liity punaisiin
+
+Jump
+== Hyppää
+
+Kick player
+== Potkaise pelaaja
+
+Language
+== Kieli
+
+MOTD
+== Palvelimen viesti
+
+Map
+== Kenttä
+
+Maximum ping:
+== Maksimiping:
+
+Mouse sens.
+== Hiiren herkkyys
+
+Move left
+== Liiku vasemmalle
+
+Move player to spectators
+== Siirrä pelaaja katsojaksi
+
+Move right
+== Liiku oikealle
+
+Movement
+== Liike
+
+Mute when not active
+== Mykistä, kun ei aktiivinen
+
+Name
+== Nimi
+
+Next weapon
+== Seuraava ase
+
+Nickname
+== Nimimerkki
+
+No
+== Ei
+
+No password
+== Ei salasanaa
+
+No servers found
+== Palvelimia ei löytynyt
+
+No servers match your filter criteria
+== Yksikään palvelin ei täyttänyt suodinkriteerejäsi
+
+Ok
+== Ok
+
+Open
+== Avaa
+
+Parent Folder
+== Yläkansio
+
+Password
+== Salasana
+
+Password incorrect
+== Väärä salasana
+
+Ping
+== Ping
+
+Pistol
+== Pistooli
+
+Play
+== Toista
+
+Play background music
+== Soita taustamusiikki
+
+Player
+== Pelaaja
+
+Player country:
+== Pelaajan maa:
+
+Player options
+== Pelaajavalinnat
+
+Players
+== Pelaajat
+
+Please balance teams!
+== Ole hyvä ja tasoita joukkueita!
+
+Prev. weapon
+== Edellinen ase
+
+Quality Textures
+== Hyvälaatuiset tekstuurit
+
+Quit
+== Lopeta
+
+Reason:
+== Syy:
+
+Red team
+== Punainen joukkue
+
+Red team wins!
+== Punainen joukkue voitti!
+
+Refresh
+== Päivitä
+
+Refreshing master servers
+== Päivitetään isäntäpalvelimia
+
+Remote console
+== Etäkonsoli
+
+Remove
+== Poista
+
+Remove friend
+== Poista ystävä
+
+Rename
+== Nimeä
+
+Rename demo
+== Uudelleennimeä demo
+
+Reset filter
+== Nollaa suotimet
+
+Sample rate
+== Näytteenottotaajuus
+
+Score
+== Pisteet
+
+Score limit
+== Pisteraja
+
+Scoreboard
+== Tuloslista
+
+Screenshot
+== Kuvankaappaus
+
+Server address:
+== Palvelimen osoite:
+
+Server details
+== Palvelimen yksityiskohdat
+
+Server filter
+== Palvelinsuotimet
+
+Server info
+== Palvelintiedot
+
+Server not full
+== Palvelin ei täysi
+
+Shotgun
+== Haulikko
+
+Show chat
+== Näytä chatti
+
+Show friends only
+== Näytä vain ystävät
+
+Show ingame HUD
+== Näytä peli-HUD
+
+Show name plates
+== Näytä nimikyltit
+
+Show only supported
+== Näytä vain tuetut
+
+Skins
+== Ulkonäkö
+
+Sound
+== Äänet
+
+Sound error
+== Äänivirhe
+
+Spectate
+== Katso
+
+Spectate next
+== Katso seuraavaa
+
+Spectate previous
+== Katso edellistä
+
+Spectator mode
+== Katsojatila
+
+Spectators
+== Katsojat
+
+Standard gametype
+== Standardipelityyppi
+
+Standard map
+== Standardikenttä
+
+Stop record
+== Lopeta nauhoit.
+
+Strict gametype filter
+== Tarkka pelityyppisuodin
+
+Sudden Death
+== Äkkikuolema
+
+Switch weapon on pickup
+== Vaihda asetta nostaessasi uuden
+
+Team
+== Joukkue
+
+Team chat
+== Joukkuechatti
+
+Texture Compression
+== Tekstuuripakkaus
+
+The audio device couldn't be initialised.
+== Äänilaitteen alustaminen ei onnistunut.
+
+The server is running a non-standard tuning on a pure game type.
+== Tämä palvelin ajaa ei-standardeja virityksiä standardipelityypillä.
+
+There's an unsaved map in the editor, you might want to save it before you quit the game.
+== Editorissa on tallentamaton kenttä, saatat haluta tallentaa sen ennen kuin lopetat pelin.
+
+Time limit
+== Aikaraja
+
+Time limit: %d min
+== Aikaraja: %d min
+
+Try again
+== Yritä uudelleen
+
+Type
+== Tyyppi
+
+Unable to delete the demo
+== Demon poistaminen ei onnistunut
+
+Unable to rename the demo
+== Demon nimeäminen ei onnistunut
+
+Use sounds
+== Käytä ääniefektejä
+
+Use team colors for name plates
+== Käytä joukkueiden värejä nimikylteissä
+
+V-Sync
+== V-Sync
+
+Version
+== Versio
+
+Vote command:
+== Äänestyskäsky:
+
+Vote description:
+== Äänestyksen kuvaus:
+
+Vote no
+== Äänestä ei
+
+Vote yes
+== Äänestä kyllä
+
+Voting
+== Äänestys
+
+Warmup
+== Lämmittely
+
+Weapon
+== Ase
+
+Yes
+== Kyllä
+
+You must restart the game for all settings to take effect.
+== Sinun täytyy uudelleenkäynnistää peli, jotta kaikki asetukset tulisivat voimaan.
+
+##### needs translation #####
+
+New name:
+== Uusi nimi:
+
+Sat.
+== Kyllästys
+
+Miscellaneous
+== Sekalaista
+
+Internet
+== Internet
+
+Max demos
+== Demomaksimi
+
+News
+== Uutiset
+
+Join game
+== Liity peliin
+
+FSAA samples
+== FSAA näytteet
+
+%d of %d servers, %d players
+== %d/%d palvelinta, %d pelaajaa
+
+Sound volume
+== Äänenvoimakkuus
+
+Created:
+== Luotu:
+
+Max Screenshots
+== Kuvankaappausmaksimi
+
+Length:
+== Pituus:
+
+Laser
+== Kivääri
+
+Netversion:
+== Yhteysversio:
+
+Map:
+== Kenttä:
+
+Info
+== Info
+
+Hue
+== Värisävy
+
+Record demo
+== Nauhoita demo
+
+Your skin
+== Sinun ulkonäkösi
+
+Size:
+== Koko:
+
+Reset to defaults
+== Palaa oletusasetuksiin
+
+Quit anyway?
+== Lopeta siitä huolimatta?
+
+Display Modes
+== Näyttötilat
+
+Version:
+== Versio:
+
+Round
+== Kierros
+
+Lht.
+== Valoisuus
+
+UI Color
+== Käyttöliittymäväri
+
+Host address
+== Palvelimen osoite
+
+Crc:
+== Crc:
+
+Alpha
+== Alfa
+
+Current version: %s
+== Nykyinen versio: %s
+
+LAN
+== LAN
+
+Name plates size
+== Nimikylttien koko
+
+Type:
+== Tyyppi:
+
+
+##### generated by copy_fix.py, please translate this #####
+
+
+##### generated by copy_fix.py, please translate this #####
+
+
+##### generated by copy_fix.py, please translate this #####
+
+
+##### generated by copy_fix.py, please translate this #####
+
+
+##### generated by copy_fix.py, please translate this #####
+
+DDNet Client updated!
+== 
+
+Update failed! Check log...
+== 
+
+Replay feature is disabled!
+== 
+
+Hook collisions
+== 
+
+Markers:
+== 
+
+Ghost
+== 
+
+Destination file already exist
+== 
+
+Preinit VBO (iGPUs only)
+== 
+
+Indicate map finish
+== 
+
+Length
+== 
+
+Loading DDNet Client
+== 
+
+Use DDRace Scoreboard
+== 
+
+Show entities
+== 
+
+Show tiles layers from BG map
+== 
+
+Friend message
+== 
+
+Hi o/
+== 
+
+Use high DPI
+== 
+
+Show other players' key presses
+== 
+
+Suicides
+== 
+
+AntiPing: predict grenade paths
+== 
+
+Exclude
+== 
+
+Are you sure that you want to disconnect your dummy?
+== 
+
+Team message
+== 
+
+Automatically create statboard csv
+== 
+
+Default zoom
+== 
+
+%.2f MiB
+== 
+
+Reset wanted weapon on death
+== 
+
+Spree
+== 
+
+Highlighted message
+== 
+
+Select a name
+== 
+
+Toggle ghost
+== 
+
+Toggle dummy
+== 
+
+Fetch Info
+== 
+
+Kill
+== 
+
+Are you sure that you want to disconnect?
+== 
+
+Toggle dyncam
+== 
+
+SHA256:
+== 
+
+Filter connecting players
+== 
+
+System message
+== 
+
+Multiple texture units (disable for MacOS)
+== 
+
+Vanilla skins only
+== 
+
+may cause delay
+== 
+
+Grabs
+== 
+
+Show other players' hook collision lines
+== 
+
+DecSpeed
+== 
+
+Spectator
+== 
+
+Date
+== 
+
+\n\nReconnect in %d sec
+== 
+
+Please use a different name
+== 
+
+Show client IDs in Scoreboard
+== 
+
+Learn
+== 
+
+Enable team chat sound
+== 
+
+Show names in chat in team colors
+== 
+
+Check now
+== 
+
+Skin prefix
+== 
+
+Reset
+== 
+
+Show score
+== 
+
+Default length: %d
+== 
+
+Show DDNet map finishes in server browser\n(transmits your player name to info.ddnet.tw)
+== 
+
+Hammerfly dummy
+== 
+
+DDNet Client needs to be restarted to complete update!
+== 
+
+Show clan above name plates
+== 
+
+AntiPing limit
+== 
+
+Lock team
+== 
+
+Normal message
+== 
+
+Try fast HTTP map download first
+== 
+
+Net
+== 
+
+UI mouse s.
+== 
+
+Max CSVs
+== 
+
+Refresh Rate
+== 
+
+Inner color
+== 
+
+Clan plates size
+== 
+
+Markers
+== 
+
+AntiPing: predict weapons
+== 
+
+Fat skins (DDFat)
+== 
+
+Video name:
+== 
+
+Show only chat messages from friends
+== 
+
+Deaths
+== 
+
+Background (entities)
+== 
+
+Manual %3d:%02d  
+== 
+
+Map sound volume
+== 
+
+Show kill messages
+== 
+
+File already exists, do you want to overwrite it?
+== 
+
+Gameplay
+== 
+
+Screen
+== 
+
+Enable gun sound
+== 
+
+Save
+== 
+
+Countries
+== 
+
+We will win
+== 
+
+Save the best demo of each race
+== 
+
+Update now
+== 
+
+DDNet
+== 
+
+FPM
+== 
+
+Show quads
+== 
+
+Pause
+== 
+
+Browser
+== 
+
+DDraceNetwork is a cooperative online game where the goal is for you and your group of tees to reach the finish line of the map. As a newcomer you should start on Novice servers, which host the easiest maps. Consider the ping to choose a server close to you.\n\nThe maps contain freeze, which temporarily make a tee unable to move. You have to work together to get through these parts.\n\nThe mouse wheel changes weapons. Hammer (left mouse) can be used to hit other tees and wake them up from being frozen.\n\nHook (right mouse) can be used to swing through the map and to hook other tees to you.\n\nMost importantly communication is key: There is no tutorial so you'll have to chat (t key) with other players to learn the basics and tricks of the game.\n\nIt's recommended that you check the settings to adjust them to your liking before joining a server.\n\nPlease enter your nick name below.
+== 
+
+Game paused
+== 
+
+Demo
+== 
+
+Enable replays
+== 
+
+DDNet %s is available:
+== 
+
+Friend
+== 
+
+Downloading %s:
+== 
+
+Types
+== 
+
+Converse
+== 
+
+Statboard
+== 
+
+Zoom out
+== 
+
+seconds
+== 
+
+Replay %3d:%02d  
+== 
+
+Zoom in
+== 
+
+Video speed:
+== 
+
+Disconnect Dummy
+== 
+
+Automatically take statboard screenshot
+== 
+
+Ratio
+== 
+
+Best
+== 
+
+Unfinished map
+== 
+
+Dummy settings
+== 
+
+Save ghost
+== 
+
+Connecting dummy
+== 
+
+Welcome to DDNet
+== 
+
+Activate
+== 
+
+Render demo
+== 
+
+Enable game sounds
+== 
+
+Personal best:
+== 
+
+second
+== 
+
+Render
+== 
+
+IncSpeed
+== 
+
+Show ghost
+== 
+
+Enable server message sound
+== 
+
+Overlay entities
+== 
+
+AntiPing
+== 
+
+Outline color
+== 
+
+Borderless window
+== 
+
+Show HUD
+== 
+
+Enable long pain sound (used when shooting in freeze)
+== 
+
+Enable regular chat sound
+== 
+
+DDNet %s is out! Download it at DDNet.tw!
+== 
+
+Search
+== 
+
+Remove chat
+== 
+
+%.2f KiB
+== 
+
+Size
+== 
+
+Show all
+== 
+
+Deactivate
+== 
+
+9+ new mentions
+== 
+
+Successfully saved the replay!
+== 
+
+1 new mention
+== 
+
+\xEE\x85\x8B
+== 
+
+Updating...
+== 
+
+Frags
+== 
+
+Race %3d:%02d  
+== 
+
+Dummy copy
+== 
+
+No updates available
+== 
+
+AntiPing: predict other players
+== 
+
+Follow
+== 
+
+%d new mentions
+== 
+
+Time
+== 
+
+Old mouse mode
+== 
+
+Threaded sound loading
+== 
+
+Server best:
+== 
+
+Wait before try for
+== 
+
+Look out!
+== 
+
+Auto %3d:%02d  
+== 
+
+Show text entities
+== 
+
+HUD
+== 
+
+Messages
+== 
+
+Restart
+== 
+
+Switch weapon when out of ammo
+== 
+
+Show console window
+== 
+
+Background (regular)
+== 
+
+Replace video
+== 
+
+Hello and welcome
+== 
+
+Show votes window after voting
+== 
+
+Reload
+== 
+
+Show health + ammo
+== 
+
+DDNet %s is out!
+== 
+
+New random timeout code
+== 
+
+Show others
+== 
+
+Enable highlighted chat sound
+== 
+
+Use OpenGL 3.3 (experimental)
+== 
